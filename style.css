@@ -1,0 +1,21 @@
+body {
+    font-family: Arial;
+    background: #111;
+    color: #fff;
+    text-align: center;
+  }
+  
+  .app {
+    margin-top: 100px;
+  }
+  
+  #time {
+    font-size: 64px;
+    margin: 20px 0;
+  }
+  
+  button {
+    margin: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
